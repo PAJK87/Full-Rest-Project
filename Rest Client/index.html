@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<script type="text/javascript" src="script.js" ></script>
+<link rel="stylesheet" type="text/css" href="index.css">
+<html>
+<head>
+    <title>My Music Collection</title>
+</head>
+<body>
+    <h1 id="mainTitle">Music Collection</h1>
+    <button id="startOver" onclick="window.location.href='index.html';">Start Over</button>
+    <br>
+    <button id="getCollection" onclick="getArtistsAPI()">Click to see the artists in my collection</button>
+    <br>
+    <br>
+    <br>
+    <div id="detail">
+    <ul id="ul">
+        <li id="artist0" onclick="getArtist(0)"></li>
+        <li id="artist1" onclick="getArtist(1)"></li>
+        <li id="artist2" onclick="getArtist(2)"></li>
+        <li id="artist3" onclick="getArtist(3)"></li>
+        <li id="artist4" onclick="getArtist(4)"></li>
+        <li id="artist5" onclick="getArtist(5)"></li>
+    </ul>
+    </div>
+</body>
+</html>

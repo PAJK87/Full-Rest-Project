@@ -1,0 +1,184 @@
+{
+    "artists": {
+      "0": {
+        "name": "Taylor Swift",
+        "genre": "Pop",
+        "label": "Republic Records",
+        "totalNumOfAlbums": "10",
+        "numOfAlbumsInRecord": "3",
+        "albums": [
+          {
+            "title": "Folklore",
+            "artist": "Taylor Swift",
+            "length": "63:29",
+            "year": "2020",
+            "numTracks": "17"
+          },
+          {
+            "title": "Evermore",
+            "artist": "Taylor Swift",
+            "length": "60:38",
+            "year": "2020",
+            "numTracks": "17"
+          },
+          {
+            "title": "Midnights",
+            "artist": "Taylor Swift",
+            "length": "69:20",
+            "year": "2022",
+            "numTracks": "20"
+          }
+        ]
+      },
+      "1": {
+        "name": "Lady Gaga",
+        "genre": "Pop",
+        "label": "Interscope",
+        "totalNumOfAlbums": "6",
+        "numOfAlbumsInRecord": "3",
+        "albums": [
+          {
+            "title": "The Fame Monster",
+            "artist": "Lady Gaga",
+            "length": "34:09",
+            "year": "2009",
+            "numTracks": "8"
+          },
+          {
+            "title": "Born This Way: Special Edition",
+            "artist": "Lady Gaga",
+            "length": "73:38",
+            "year": "2011",
+            "numTracks": "17"
+          },
+          {
+            "title": "Chromatica",
+            "artist": "Lady Gaga",
+            "length": "43:08",
+            "year": "2020",
+            "numTracks": "16"
+          }
+        ]
+      },
+      "2": {
+        "name": "The National",
+        "genre": "Alternative/Rock",
+        "label": "4AD",
+        "totalNumOfAlbums": "8",
+        "numOfAlbumsInRecord": "3",
+        "albums": [
+          {
+            "title": "Trouble Will Find Me",
+            "artist": "The National",
+            "length": "55:06",
+            "year": "2013",
+            "numTracks": "13"
+          },
+          {
+            "title": "Sleep Well Beast",
+            "artist": "The National",
+            "length": "57:32",
+            "year": "2017",
+            "numTracks": "12"
+          },
+          {
+            "title": "I Am Easy To Find",
+            "artist": "The National",
+            "length": "63:35",
+            "year": "2019",
+            "numTracks": "16"
+          }
+        ]
+      },
+      "3": {
+        "name": "Haim",
+        "genre": "Pop/Rock",
+        "label": "Columbia",
+        "totalNumOfAlbums": "3",
+        "numOfAlbumsInRecord": "3",
+        "albums": [
+          {
+            "title": "Days Are Gone",
+            "artist": "Haim",
+            "length": "44:14",
+            "year": "2013",
+            "numTracks": "11"
+          },
+          {
+            "title": "Something To Tell You",
+            "artist": "Haim",
+            "length": "42:38",
+            "year": "2017",
+            "numTracks": "11"
+          },
+          {
+            "title": "Women in Music Pt. III",
+            "artist": "Haim",
+            "length": "41:40",
+            "year": "2020",
+            "numTracks": "16"
+          }
+        ]
+      },
+      "4": {
+        "name": "Beach House",
+        "genre": "Indie/Dream Pop",
+        "label": "Sub Pop",
+        "totalNumOfAlbums": "8",
+        "numOfAlbumsInRecord": "3",
+        "albums": [
+          {
+            "title": "Bloom",
+            "artist": "Beach House",
+            "length": "60:28",
+            "year": "2012",
+            "numTracks": "10"
+          },
+          {
+            "title": "Depression Cherry",
+            "artist": "Beach House",
+            "length": "44:45",
+            "year": "2015",
+            "numTracks": "9"
+          },
+          {
+            "title": "Once Twice Melody",
+            "artist": "Beach House",
+            "length": "84:28",
+            "year": "2022",
+            "numTracks": "9"
+          }
+        ]
+      },
+      "5": {
+        "name": "Sufjan Stevens",
+        "genre": "Indie Folk/Rock",
+        "label": "Asthmatic Kitty",
+        "totalNumOfAlbums": "14",
+        "numOfAlbumsInRecord": "3",
+        "albums": [
+          {
+            "title": "Illinois",
+            "artist": "Sufjan Stevens",
+            "length": "73:59",
+            "year": "2005",
+            "numTracks": "22"
+          },
+          {
+            "title": "Carrie & Lowell",
+            "artist": "Sufjan Stevens",
+            "length": "43:35",
+            "year": "2015",
+            "numTracks": "11"
+          },
+          {
+            "title": "The Ascension",
+            "artist": "Sufjan Stevens",
+            "length": "80:30",
+            "year": "2022",
+            "numTracks": "15"
+          }
+        ]
+      }
+    }
+  }
