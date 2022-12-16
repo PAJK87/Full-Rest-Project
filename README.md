@@ -1,6 +1,12 @@
 # Full-Rest-Project
  
- This repo has two seperate folders. One (Node Rest API) containing my REST API, built with Node.js and Express and made to run in a Docker Container. The second (Rest Client) contains code for a simple html page that makes the REST get calls and displays formatted information. 
+ This repo has two separate folders. One (Node Rest API) containing my REST API, built with Node.js and Express and made to run in a Docker Container. The second (Rest Client) contains code for a simple html page that makes the REST GET calls and displays formatted information from my JSON data.
+
+ I have created 4 GET routes:
+	An /artists/ endpoint that returns all the artists in my collection
+	An /artists/id endpoint that returns a single artist's information by ID
+	An /artists/id/albums endpoint that returns all the albums from that specific artist
+	An /artists/id/albums/id endpoint that returns a single album's information by that specific artist
 
 ## Information to Run my Development Build
 
